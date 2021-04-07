@@ -5,9 +5,11 @@
 
 # Variable Font Preview 3
 
-The famous plugin now available for Glyphs 3 with piles of improvemnts and new features.
+The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
-You can now download it directly from the Plugin Manager right inside of GlyphsApp.
+## Highlights:
+- You can now download it directly from the Plugin Manager right inside of GlyphsApp.
+- No axes limit.
 
 # TODO
 
@@ -18,3 +20,4 @@ You can now download it directly from the Plugin Manager right inside of GlyphsA
 
 ### v3.0.0
 
+- …
