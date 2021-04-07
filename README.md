@@ -19,7 +19,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Percentage bars for masters involvements.
 - 
 
-## TODO
+## Todo
 
 - [ ] Re-enable RTL
 
