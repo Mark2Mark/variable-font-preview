@@ -42,7 +42,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Fix: Update menu instances right after adding an instance.
 - Smooth standalone window fade, improve window behaviour to be never a main window.
 - Implement plugin manager purchase & offer trial version.
-• New Feature: Magnifier. Click in view to show/hide, `cmd` + move mouse to reposition.
-• Implement new layer shapes API.
-• minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo!
-• New Feature: User choice to use rounded or decimal values with sliders.
+- New Feature: Magnifier. Click in view to show/hide, `cmd` + move mouse to reposition. 
+- Implement new layer shapes API. 
+- minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo! 
+- New Feature: User choice to use rounded or decimal values with sliders. 
