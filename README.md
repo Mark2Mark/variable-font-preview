@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="200" src="https://paddle.s3.amazonaws.com/user/48208/yM6W1AogRPiEJEsPTBHQ_VFP-Icon.png">
+  <img width="200" height="200" src="https://github.com/Mark2Mark/variable-font-preview/blob/master/.VFP-Icon.png">
 </p>
 
 # Variable Font Preview 3
