@@ -11,12 +11,12 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
 - No axes limit.
 
-# TODO
+## TODO
 
 - [ ] Re-enable RTL
 
 
-# Changelog
+## Changelog
 
 ### v3.0.0
 
