@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>20D80</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Variable Font Preview X</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.markfromberg.Variable-Font-Preview-X</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Variable Font Preview X</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>5</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>12B45b</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>11.0</string>
+	<key>DTSDKBuild</key>
+	<string>20A2408</string>
+	<key>DTSDKName</key>
+	<string>macosx11.0</string>
+	<key>DTXcode</key>
+	<string>1220</string>
+	<key>DTXcodeBuild</key>
+	<string>12B45b</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.13</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Mark Frömberg</string>
+	<key>NSPrincipalClass</key>
+	<string>MFVariableFontPreviewX</string>
+	<key>UpdateFeedURL</key>
+	<string>https://markfromberg.com/public/app-update-info/variable-font-preview/Info.plist</string>
+	<key>productPageURL</key>
+	<string>https://markfromberg.com/shop/</string>
+	<key>productReleaseNotes</key>
+	<string>Enjoy this update with new features and bugfixes =) ● Please go to the website of the developer and contact him for getting the latest version. ● Click the Download button ↘︎</string>
+</dict>
+</plist>
