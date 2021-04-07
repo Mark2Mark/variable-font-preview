@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/AppIcon.icns</key>
-		<data>
-		hFKgZpJYC48HoXkkJMiG5xufu1w=
-		</data>
 		<key>Resources/MFSliderViewController.nib/keyedobjects-101400.nib</key>
 		<data>
 		V5/wUjTIckbV/aRdu6UhCyJX08g=
@@ -20,6 +16,10 @@
 		<data>
 		WAPgpby2qI1XGQHKUgucadDyc8I=
 		</data>
+		<key>Resources/VFP-Icon.png</key>
+		<data>
+		WWQ33lxYZOGM6C41Le6/9g+ZrZI=
+		</data>
 		<key>Resources/Variable Font Preview X-Info.plist</key>
 		<data>
 		ZpShXd85WruyHQqAvnU3etxRWXQ=
@@ -31,13 +31,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/AppIcon.icns</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			toupdlEiINViKODWySl2eD01sBUnYQ51tjAsM8x51QY=
-			</data>
-		</dict>
 		<key>Resources/MFSliderViewController.nib/keyedobjects-101400.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -57,6 +50,13 @@
 			<key>hash2</key>
 			<data>
 			iAKHG7bxS9hwwW01KTTbaO++Nl3n/Hpdzc3pSga280I=
+			</data>
+		</dict>
+		<key>Resources/VFP-Icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9tHq0FiyF9TG+FlQBEfX+9BBiFm1LxdJOAwkjUWJEu8=
 			</data>
 		</dict>
 		<key>Resources/Variable Font Preview X-Info.plist</key>
