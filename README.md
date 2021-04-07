@@ -1,4 +1,7 @@
-![img](https://paddle.s3.amazonaws.com/user/48208/yM6W1AogRPiEJEsPTBHQ_VFP-Icon.png)
+
+<p align="center">
+  <img width="300" height="300" src="https://paddle.s3.amazonaws.com/user/48208/yM6W1AogRPiEJEsPTBHQ_VFP-Icon.png">
+</p>
 
 # Variable Font Preview 3
 
