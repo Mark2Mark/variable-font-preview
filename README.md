@@ -7,7 +7,7 @@
 
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
-⚠️ Do not download directly form here. Please install via GlyphsApp’s Plguin Manager ⚠️
+⚠️ Do not download directly from here. Please install via GlyphsApp’s Plguin Manager ⚠️
 
 
 ## Highlights:
