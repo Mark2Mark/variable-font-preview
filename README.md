@@ -24,7 +24,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 ## Todo
 
-- [ ] Push preview glyphs to the right in RTL mode.
+- See [issues](https://github.com/Mark2Mark/variable-font-preview/issues)
 
 
 ## Changelog
