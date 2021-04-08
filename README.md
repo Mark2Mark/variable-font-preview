@@ -10,7 +10,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ⚠️ Do not download directly from here. Please install via GlyphsApp’s Plguin Manager ⚠️
 
 
-## Highlights:
+## Highlights
 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
 - No axes limit.
