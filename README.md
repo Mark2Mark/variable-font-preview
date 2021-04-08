@@ -3,11 +3,6 @@
   <img width="200" height="200" src="https://github.com/Mark2Mark/variable-font-preview/blob/main/Variable%20Font%20Preview%20X.glyphsReporter/Contents/Resources/VFP-Icon.png">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true">
-</p>
-
-
 # Variable Font Preview 3
 
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
@@ -54,3 +49,8 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Implement new layer shapes API. 
 - Minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo! 
 - New Feature: User choice to use rounded or decimal values with sliders. 
+
+
+<p align="center">
+  <img src="https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true">
+</p>
