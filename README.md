@@ -7,6 +7,9 @@
 
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
+⚠️ Do not download directly form here. Please install via GlyphsApp’s Plguin Manager ⚠️
+
+
 ## Highlights:
 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
@@ -17,7 +20,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - More compact sliders: cleaner UI, less finger fatigue.
 - Choose to round values or use floats.
 - Percentage bars for masters involvements.
-- 
+- Updates will load automatically. You will never have to manually install any updates anymore.
 
 ## Todo
 
