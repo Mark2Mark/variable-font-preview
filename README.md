@@ -24,7 +24,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 ## Todo
 
-- [ ] Re-enable RTL
+- [ ] Push preview glyphs to the right in RTL mode.
 
 
 ## Changelog
