@@ -50,6 +50,13 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo! 
 - New Feature: User choice to use rounded or decimal values with sliders. 
 
+## How to activate your license
+Activating the plugin is easy, just follow the simple steps below...
+<ol><li>If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li><li>When you activate the plugin, you'll be prompted with a window*, click the "Enter License" button to the left of this window.</li><li>On the screen that opens enter your Email Address, and the License Code from the 'Activation Information' box below into the appropriate fields within the plugin.</li><li>When you've completed the above, just click the "Activate License" button. Within a few seconds your product should be activated for full use!</li></ol>
+
+*) If the window doesn’t show, you can right-click into the Edit Tab (where you do your drawings) and in the Context Menu should be a "Purchase …" Menu Item. Click it to open the window.
+
+---
 
 <p align="center">
   <img src="https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true">
