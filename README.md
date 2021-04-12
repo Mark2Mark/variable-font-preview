@@ -53,11 +53,11 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
 Activating the plugin is easy, just follow the simple steps below...
 <ol>
-  <li>👉 Make sure you have GlyphsApp 3 build `3062` or higher.</li>
+  <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
-  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the `"Enter License" button to the left of this window.</li>
-  <li>👉 On the screen that opens enter your Email Address, and the License Code from the 'Activation Information' box below into the appropriate fields within the plugin.</li>
-  <li>👉 When you've completed the above, just click the "Activate License" button. Within a few seconds your product should be activated for full use!</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Enter License"</code> button to the left of this window.</li>
+  <li>👉 On the screen that opens enter your Email address, and the license code from your Activation Information into the appropriate fields within the plugin.</li>
+  <li>👉 When you've completed the above, just click the <code>"Activate License"</code> button. Within a few seconds your product should be activated for full use!</li>
 </ol>
 
 *) If the window doesn’t show, you can right-click into the Edit Tab (where you do your drawings) and in the Context Menu should be a "Purchase …" Menu Item. Click it to open the window.
@@ -65,13 +65,13 @@ Activating the plugin is easy, just follow the simple steps below...
 ## How to enter a coupon
 If you have a coupon, follow these steps to use it for a discount on your purchase:
 <ol>
-  <li>👉 Make sure you have GlyphsApp 3 build `3062` or higher.</li>
+  <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
-  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the "Buy Now" button to the right of this window.</li>
-  <li>👉 On the screen that opens enter your Email Address, and click »Continue«.</li>
-  <li>👉 Follow the form until it asks you to pay. But now click »Add Coupon« and then continue to pay.</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Buy Now"</code> button to the right of this window.</li>
+  <li>👉 On the screen that opens enter your Email address, and click <code>»Continue«</code>.</li>
+  <li>👉 Follow the form until it asks you to pay. But now click <code>»Add Coupon«</code> and then continue to pay.</li>
   <li>👉 On success you should get an Email with a licence code.</li>
-  <li>👉 Use that to activate your License <a href="#how-to-activate-your-license"> (steps here).</a> </li>
+  <li>👉 Use that to activate your license <a href="#how-to-activate-your-license"> (steps here).</a> </li>
 </ol>
 
 *) If the window doesn’t show, you can right-click into the Edit Tab (where you do your drawings) and in the Context Menu should be a "Purchase …" Menu Item. Click it to open the window.
