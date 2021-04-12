@@ -74,8 +74,9 @@ If you have a coupon, follow these steps to use it for a discount on your purcha
   <li>👉 Use that to activate your License <a href="#how-to-activate-your-license"> (steps here).</a> </li>
 </ol>
 
-
 *) If the window doesn’t show, you can right-click into the Edit Tab (where you do your drawings) and in the Context Menu should be a "Purchase …" Menu Item. Click it to open the window.
+
+If you can’t see the »Add Coupon«, that’s likely to a reported GlyphsApp bug, switching to Dark Mode and opening the window again might solve it.
 
 ---
 
