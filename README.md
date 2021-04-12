@@ -50,7 +50,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo! 
 - New Feature: User choice to use rounded or decimal values with sliders. 
 
-## How to activate your license
+## How to activate your license<a id="how-to-activate-your-license"></a>  
 Activating the plugin is easy, just follow the simple steps below...
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build 3062 or higher.</li>
