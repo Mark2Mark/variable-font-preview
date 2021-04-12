@@ -67,11 +67,11 @@ If you have a coupon, follow these steps to use it for a discount on your purcha
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build 3062 or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
-  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the "Enter License" button to the left of this window.</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the "Buy Now" button to the right of this window.</li>
   <li>👉 On the screen that opens enter your Email Address, and click »Continue«.</li>
-  <li>👉 Follow the form until it asks you to Pay. But now click »Add Coupon« and then continue to pay.</li>
+  <li>👉 Follow the form until it asks you to pay. But now click »Add Coupon« and then continue to pay.</li>
   <li>👉 On success you should get an Email with a licence code.</li>
-  <li>👉 Use that to activate your License <a href="#how-to-activate-your-license"> steps here</a> </li>
+  <li>👉 Use that to activate your License <a href="#how-to-activate-your-license"> (steps here).</a> </li>
 </ol>
 
 
