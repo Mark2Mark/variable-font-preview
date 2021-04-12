@@ -55,7 +55,7 @@ Activating the plugin is easy, just follow the simple steps below...
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
-  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Enter License"</code> button to the left of this window.</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Enter License"</code> button.</li>
   <li>👉 On the screen that opens enter your Email address, and the license code from your Activation Information into the appropriate fields within the plugin.</li>
   <li>👉 When you've completed the above, just click the <code>"Activate License"</code> button. Within a few seconds your product should be activated for full use!</li>
 </ol>
