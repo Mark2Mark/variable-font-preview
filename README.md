@@ -53,9 +53,9 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
 Activating the plugin is easy, just follow the simple steps below...
 <ol>
-  <li>👉 Make sure you have GlyphsApp 3 build 3062 or higher.</li>
+  <li>👉 Make sure you have GlyphsApp 3 build `3062` or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
-  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the "Enter License" button to the left of this window.</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the `"Enter License" button to the left of this window.</li>
   <li>👉 On the screen that opens enter your Email Address, and the License Code from the 'Activation Information' box below into the appropriate fields within the plugin.</li>
   <li>👉 When you've completed the above, just click the "Activate License" button. Within a few seconds your product should be activated for full use!</li>
 </ol>
@@ -65,7 +65,7 @@ Activating the plugin is easy, just follow the simple steps below...
 ## How to enter a coupon
 If you have a coupon, follow these steps to use it for a discount on your purchase:
 <ol>
-  <li>👉 Make sure you have GlyphsApp 3 build 3062 or higher.</li>
+  <li>👉 Make sure you have GlyphsApp 3 build `3062` or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
   <li>👉 When you activate the plugin, you'll be prompted with a window*, click the "Buy Now" button to the right of this window.</li>
   <li>👉 On the screen that opens enter your Email Address, and click »Continue«.</li>
