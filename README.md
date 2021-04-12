@@ -71,7 +71,7 @@ If you have a coupon, follow these steps to use it for a discount on your purcha
   <li>👉 On the screen that opens enter your Email Address, and click »Continue«.</li>
   <li>👉 Follow the form until it asks you to Pay. But now click »Add Coupon« and then continue to pay.</li>
   <li>👉 On success you should get an Email with a licence code.</li>
-  <li>👉 Use that to activate your License [Follow these steps](#How-to-activate-your-license)</li>
+  <li>👉 Use that to activate your License [(steps here)](#how-to-activate-your-license)</li>
 </ol>
 
 
