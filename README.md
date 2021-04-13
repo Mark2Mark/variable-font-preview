@@ -7,7 +7,7 @@
 
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
-⚠️ Do not download directly from here. Please install via GlyphsApp’s Plguin Manager ⚠️
+⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
 
 
 ## Highlights
@@ -50,6 +50,35 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo! 
 - New Feature: User choice to use rounded or decimal values with sliders. 
 
+## How to activate your license<a id="how-to-activate-your-license"></a>  
+Activating the plugin is easy, just follow the simple steps below...
+<ol>
+  <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
+  <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Enter License"</code> button.</li>
+  <li>👉 On the screen that opens enter your Email address, and the license code from your Email.</li>
+  <li>👉 When you've completed the above, just click the <code>"Activate License"</code> button. Within a few seconds your product should be activated for full use!</li>
+</ol>
+
+*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>.
+
+## How to enter a coupon
+If you have a coupon, follow these steps to use it for a discount on your purchase:
+<ol>
+  <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
+  <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
+  <li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Buy Now"</code> button.</li>
+  <li>👉 On the screen that opens enter your Email address, and click <code>»Continue«</code>.</li>
+  <li>👉 Follow the form until it asks you to pay. But now click <code>»Add Coupon«</code> and then continue to pay.</li>
+  <li>👉 On success you should get an Email with a licence code.</li>
+  <li>👉 Use that to activate your license <a href="#how-to-activate-your-license"> (steps here).</a> </li>
+</ol>
+
+*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>.
+
+If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reported GlyphsApp bug, switching to Dark Mode and opening the window again might solve it.
+
+---
 
 <p align="center">
   <img src="https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/Plugin%20Manager%20-%20Variable%20Font%20Preview.jpg?raw=true">
