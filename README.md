@@ -64,7 +64,7 @@ Activating the plugin is easy, just follow the simple steps below...
   <li>👉 When you've completed the above, just click the <code>"Activate License"</code> button. Within a few seconds your product should be activated for full use!</li>
 </ol>
 
-*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>.
+*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
 
 ## How to enter a coupon
 If you have a coupon, follow these steps to use it for a discount on your purchase:
@@ -78,7 +78,7 @@ If you have a coupon, follow these steps to use it for a discount on your purcha
   <li>👉 Use that to activate your license <a href="#how-to-activate-your-license"> (steps here).</a> </li>
 </ol>
 
-*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>.
+*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
 
 If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reported GlyphsApp bug, switching to Dark Mode and opening the window again might solve it.
 
