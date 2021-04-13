@@ -17,7 +17,7 @@
 	<key>CFBundleName</key>
 	<string>Variable Font Preview X</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.0.0</string>
+	<string>3.0.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
@@ -41,7 +41,7 @@
 	<key>DTXcodeBuild</key>
 	<string>12B45b</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>11.13</string>
+	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Mark Frömberg</string>
 	<key>NSPrincipalClass</key>
