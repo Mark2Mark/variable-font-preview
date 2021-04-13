@@ -29,6 +29,10 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 ## Changelog
 
+### v3.0.1
+
+- Add menu item "Open Registration Window"
+
 ### v3.0.0
 
 - Fix instances don’t show *all* the time in the Menu.
