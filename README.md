@@ -7,6 +7,8 @@
 
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
+💡 Minimum Glyphs version: build <code>3062</code>.
+
 ⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
 
 
