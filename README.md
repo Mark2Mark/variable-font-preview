@@ -58,7 +58,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ## FAQ
 <details><summary>🙋 I can’t find it in the Plugin Manager.</summary>
 ➡️ You need to check if your GlyphsApp build is higher than <code>3062</code>.  
-If GLyphs doesn’t offer you a high enough version, enable activate GlyphsApp <code>Preferences</code> > <code>"Updates"</code> > <code>“Show cutting edge versions”</code>. Note: you can have several GlyphsApp versions
+If Glyphs doesn’t offer you a high enough version, enable activate GlyphsApp <code>Preferences</code> > <code>"Updates"</code> > <code>“Show cutting edge versions”</code>. Note: you can have several GlyphsApp versions
 </details>
 
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
