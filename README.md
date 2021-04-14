@@ -56,8 +56,8 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - New Feature: User choice to use rounded or decimal values with sliders. 
 
 ## FAQ
-<details><summary>🙋 I can’t find it in the Plugin Manager!</summary>
-➡️ You need to check if your GlyphsApp build is higher than 3062.  
+<details><summary>🙋 I can’t find it in the Plugin Manager.</summary>
+➡️ You need to check if your GlyphsApp build is higher than <code>3062</code>.  
 If GLyphs doesn’t offer you a high enough version, enable activate GlyphsApp <code>Preferences</code> > <code>"Updates"</code> > <code>“Show cutting edge versions”</code>. Note: you can have several GlyphsApp versions
 </details>
 
