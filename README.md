@@ -32,6 +32,8 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 ## Changelog
 
+<details><summary>Expand if you’re curious.</summary>
+
 ### v3.0.1
 
 - Add menu item "Open Registration Window"
@@ -56,6 +58,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Implement new layer shapes API. 
 - Minimum height for preview in EditTab. It cannot collapse anymore, which lead to some confusion. Thanks Minjoo! 
 - New Feature: User choice to use rounded or decimal values with sliders. 
+</details>
 
 ## FAQ
 <details><summary>🙋 I can’t find it in the Plugin Manager.</summary>
