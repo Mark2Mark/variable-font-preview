@@ -62,6 +62,7 @@ If Glyphs doesn’t offer you a high enough version, enable activate GlyphsApp <
 </details>
 
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
+After your purchase, the license key should be set automatically for you. If it isn’t:  
 <details><summary>Activating the plugin is easy, just follow the simple steps [click to open]</summary>
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
