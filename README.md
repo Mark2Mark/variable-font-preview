@@ -12,6 +12,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
 
 
+&nbsp;
 ## Highlights
 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
@@ -25,11 +26,12 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - Updates will load automatically. You will never have to manually install any updates anymore.
 - Keybobard shortcut to (de-)activate plugin: <kbd>⌃⌥⌘V</kbd>
 
+&nbsp;
 ## Todo
 
 - See [issues](https://github.com/Mark2Mark/variable-font-preview/issues)
 
-
+&nbsp;
 ## Changelog
 
 <details><summary>Expand if you’re curious.</summary>
@@ -60,12 +62,14 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 - New Feature: User choice to use rounded or decimal values with sliders. 
 </details>
 
+&nbsp;
 ## FAQ
 <details><summary>🙋 I can’t find it in the Plugin Manager.</summary>
 ➡️ You need to check if your GlyphsApp build is higher than <code>3062</code>.  
 If Glyphs doesn’t offer you a high enough version, enable activate GlyphsApp <code>Preferences</code> > <code>"Updates"</code> > <code>“Show cutting edge versions”</code>. Note: you can have several GlyphsApp versions
 </details>
 
+&nbsp;
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
 After your purchase, the license key should be set automatically for you. If it isn’t:  
 <details><summary>Activating the plugin is easy, just follow the simple steps [click to open]</summary>
@@ -80,6 +84,7 @@ After your purchase, the license key should be set automatically for you. If it 
 *) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
 </details>
 
+&nbsp;
 ## How to enter a coupon
 <details><summary>If you have a coupon, follow these steps to use it for a discount on your purchase [click to open]</summary>
 <ol>
@@ -96,6 +101,8 @@ After your purchase, the license key should be set automatically for you. If it 
 
 If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reported GlyphsApp bug, switching to Dark Mode and opening the window again might solve it.
 </details>
+
+&nbsp;
 
 ---
 
