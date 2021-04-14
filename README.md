@@ -61,7 +61,7 @@ If GLyphs doesn’t offer you a high enough version, enable activate GlyphsApp <
 </details>
 
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
-<details><summary>Activating the plugin is easy, just follow the simple steps below ...</summary>
+<details><summary>Activating the plugin is easy, just follow the simple steps [click to open]</summary>
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
@@ -74,7 +74,7 @@ If GLyphs doesn’t offer you a high enough version, enable activate GlyphsApp <
 </details>
 
 ## How to enter a coupon
-<details><summary>If you have a coupon, follow these steps to use it for a discount on your purchase:</summary>
+<details><summary>If you have a coupon, follow these steps to use it for a discount on your purchase [click to open]</summary>
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
