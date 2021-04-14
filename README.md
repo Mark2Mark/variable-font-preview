@@ -14,13 +14,14 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
 - No axes limit.
-- Magnifier: Click into the preview to show/close. Hold `cmd` key while moving the mouse to reposition.
+- Magnifier: Click into the preview to show/close. Hold `cmd` key <kbd>⌘</kbd> while moving the mouse to reposition.
 - Measurement of interpolation: Select 2 nodes to measure horizontal and vertical distance as well as the angle.
 - Standalone window: Choose between the preview inside of the Edit Tab or as a window. YOu can put that on another screen.
 - More compact sliders: cleaner UI, less finger fatigue.
 - Choose to round values or use floats.
 - Percentage bars for masters involvements.
 - Updates will load automatically. You will never have to manually install any updates anymore.
+- Keybobard shortcut to (de-)activate plugin: <kbd>⌃⌥⌘V</kbd>
 
 ## Todo
 
@@ -56,7 +57,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 ## FAQ
 <details><summary>🙋 I can’t find it in the Plugin Manager!</summary>
-> 💡 You need to check if your GlyphsApp build is higher than 3062.  
+➡️ You need to check if your GlyphsApp build is higher than 3062.  
 If GLyphs doesn’t offer you a high enough version, enable activate GlyphsApp <code>Preferences</code> > <code>"Updates"</code> > <code>“Show cutting edge versions”</code>. Note: you can have several GlyphsApp versions
 </details>
 
