@@ -61,7 +61,7 @@ If GLyphs doesn’t offer you a high enough version, enable activate GlyphsApp <
 </details>
 
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
-Activating the plugin is easy, just follow the simple steps below...
+<details><summary>Activating the plugin is easy, just follow the simple steps below ...</summary>
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
@@ -71,9 +71,10 @@ Activating the plugin is easy, just follow the simple steps below...
 </ol>
 
 *) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
+</details>
 
 ## How to enter a coupon
-If you have a coupon, follow these steps to use it for a discount on your purchase:
+<details><summary>If you have a coupon, follow these steps to use it for a discount on your purchase:</summary>
 <ol>
   <li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
   <li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
@@ -87,6 +88,7 @@ If you have a coupon, follow these steps to use it for a discount on your purcha
 *) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
 
 If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reported GlyphsApp bug, switching to Dark Mode and opening the window again might solve it.
+</details>
 
 ---
 
