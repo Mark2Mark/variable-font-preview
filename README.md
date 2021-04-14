@@ -97,6 +97,8 @@ After your purchase, the license key should be set automatically for you. If it 
   <li>👉 Use that to activate your license <a href="#how-to-activate-your-license"> (steps here).</a> </li>
 </ol>
 
+⚠️ Note: The Coupon is **not** the License Code. Please don’t enter the Coupon Code into the field for your License Code!
+
 *) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Variable Font Preview 3"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
 
 If you can’t see the <code>»Add Coupon«</code>, that’s likely to a reported GlyphsApp bug, switching to Dark Mode and opening the window again might solve it.
