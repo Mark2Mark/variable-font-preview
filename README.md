@@ -36,6 +36,14 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 <details><summary>Expand if you’re curious.</summary>
 
+### v3.0.3
+
+- Remove debug logging
+
+### v3.0.2
+
+- Fix Registry issue.
+
 ### v3.0.1
 
 - Add menu item "Open Registration Window"
