@@ -17,13 +17,13 @@
 	<key>CFBundleName</key>
 	<string>Variable Font Preview X</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.0.3</string>
+	<string>3.0.4</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>8</string>
+	<string>10</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -43,14 +43,14 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Mark Frömberg</string>
+	<string>© 2021 markfromberg.com | All rights reserved.</string>
 	<key>NSPrincipalClass</key>
 	<string>MFVariableFontPreviewX</string>
 	<key>UpdateFeedURL</key>
-	<string>https://markfromberg.com/public/app-update-info/variable-font-preview/Info.plist</string>
+	<string>https:</string>
 	<key>productPageURL</key>
-	<string>https://markfromberg.com/shop/</string>
+	<string>https:</string>
 	<key>productReleaseNotes</key>
-	<string>Enjoy this update with new features and bugfixes =) ● Please go to the website of the developer and contact him for getting the latest version. ● Click the Download button ↘︎</string>
+	<string>Enjoy this update</string>
 </dict>
 </plist>

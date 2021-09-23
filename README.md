@@ -39,6 +39,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ### v3.0.4
 
 - New feature: "Always On Top" If active it shows the window on top of other windows even if GlyphsApp is in the background. Useful depending on if you use multiple screens or not.
+- New feature: Slider now have tickmarks if the range is smaller than 11. Useful for for italic axis, where there are only 0 and 1 as values.
 
 ### v3.0.3
 
