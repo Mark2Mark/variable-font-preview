@@ -17,7 +17,7 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 - You can now download it directly from the Plugin Manager right inside of GlyphsApp.
 - No axes limit.
-- Magnifier: Click into the preview to show/close. Hold `cmd` key <kbd>⌘</kbd> while moving the mouse to reposition.
+- Magnifier: Click into the preview to show/close. Hold `command` key (<kbd>⌘</kbd>) while moving the mouse to reposition.
 - Measurement of interpolation: Select 2 nodes to measure horizontal and vertical distance as well as the angle.
 - Standalone window: Choose between the preview inside of the Edit Tab or as a window. YOu can put that on another screen.
 - More compact sliders: cleaner UI, less finger fatigue.
