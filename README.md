@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/Mark2Mark/variable-font-preview/blob/main/Variable%20Font%20Preview%20X.glyphsReporter/Contents/Resources/VFP-Icon.png">
+  <img width="200" height="200" src="https://github.com/Mark2Mark/variable-font-preview/blob/main/.images/VFP-Icon.png">
 </p>
 
 # Variable Font Preview 3
@@ -35,6 +35,10 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ## Changelog
 
 <details><summary>Expand if you’re curious.</summary>
+
+### v3.0.5
+
+- New feature: Option to hide current layer foreground. Make the preview shine in all its glory.
 
 ### v3.0.4
 
