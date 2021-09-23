@@ -36,6 +36,10 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 <details><summary>Expand if you’re curious.</summary>
 
+### v3.0.4
+
+- New feature: "Always On Top" If active it shows the window on top of other windows even if GlyphsApp is in the background. Useful depending on if you use multiple screens or not.
+
 ### v3.0.3
 
 - Remove debug logging
