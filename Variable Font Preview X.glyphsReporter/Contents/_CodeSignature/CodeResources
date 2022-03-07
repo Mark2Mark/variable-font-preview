@@ -4,40 +4,84 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/MFSliderViewController.nib/keyedobjects-101300.nib</key>
+		<data>
+		go8qsnsijqVnepN9uS7geR77VFQ=
+		</data>
 		<key>Resources/MFSliderViewController.nib/keyedobjects-101400.nib</key>
 		<data>
-		V5/wUjTIckbV/aRdu6UhCyJX08g=
+		6e/GSocPdn8BNvsIp5EHV284Fp0=
 		</data>
 		<key>Resources/MFSliderViewController.nib/keyedobjects.nib</key>
 		<data>
-		bEwCGT4jW+drZyJXy10yss/5jzg=
+		uGJwWs+bq0L+N/N4UX9BOc60W80=
 		</data>
-		<key>Resources/MFVFPLabeledSliderViewController.nib</key>
+		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects-101300.nib</key>
 		<data>
-		WAPgpby2qI1XGQHKUgucadDyc8I=
+		PTd+ippM4oGbmFxy3b1H8uzn1o0=
+		</data>
+		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects.nib</key>
+		<data>
+		mlqdKws5iRw1pzIXKWrfqKcCyh8=
+		</data>
+		<key>Resources/MFVFPWindow.nib/keyedobjects-101300.nib</key>
+		<data>
+		mMLrnwlv5D284AKj9YREOiefmXU=
+		</data>
+		<key>Resources/MFVFPWindow.nib/keyedobjects.nib</key>
+		<data>
+		BXSCCMwMv19pb/Q7/hw6IJcZARY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/MFSliderViewController.nib/keyedobjects-101300.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iE/AuFZsgAskeN11xVkA4MRZcRxSQuurxBbl13MwZ9I=
+			</data>
+		</dict>
 		<key>Resources/MFSliderViewController.nib/keyedobjects-101400.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a8HiRipAi4W/9JvrF7ULr2dIAeodvUWdlQRjh6G6UBw=
+			PLpiMqvGbrq/Dh3n93CUaaUsphmt054NnNmURqxvX7I=
 			</data>
 		</dict>
 		<key>Resources/MFSliderViewController.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GsnZa1JnDuPSLhTqgFbrVGQSzvEolHQIKrjncRfD7Ug=
+			VwjO2ejWo21etPBKSb+tkR1ceXz7KyghRiIXpJYPT2w=
 			</data>
 		</dict>
-		<key>Resources/MFVFPLabeledSliderViewController.nib</key>
+		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects-101300.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iAKHG7bxS9hwwW01KTTbaO++Nl3n/Hpdzc3pSga280I=
+			rt2ZIz2fQLRxvAst65NwGLAGkKaOY1OB/g1sZk+b3X4=
+			</data>
+		</dict>
+		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NU/v62DjXfPA9v+ja3dhEqn5KUONTtrsiXUT91lXYSQ=
+			</data>
+		</dict>
+		<key>Resources/MFVFPWindow.nib/keyedobjects-101300.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			42lj016L4KmXX43brpJzOjHeNdCNlKUkF9SnV9Mz7Wo=
+			</data>
+		</dict>
+		<key>Resources/MFVFPWindow.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DxN5yf1/Zxp3a9oQ2KdyZvb1DunayDZ6NrsNUoVYsMo=
 			</data>
 		</dict>
 	</dict>

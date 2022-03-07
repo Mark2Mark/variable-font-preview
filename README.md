@@ -38,28 +38,84 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 <details><summary>Expand if you’re curious.</summary>
 
-### v3.0.5
+3.2.2
+-----
+
+Fix
+- fix a case where the preview did not show.
+
+
+3.2.1
+-----
+
+New
+- Update sliders when font axes are added or removed.  
+  When changing the *axes location of a master*, the sliders don’t update yet, as this is more tricky to implement. For now, just disable and enable the plugin for that to take effect.
+
+
+3.2.0
+-----
+
+New
+- Hovering over the instances in the menu applies the instance preview right away.
+
+
+3.1.0
+-----
+
+New
+- Sliders remember their positions now when switching fonts.
+- Radar Chart for Master Mapping.
+- Option to center Preview Glyph.
+
+Changes
+- Don’t move window by dragging anywhere in the view.
+
+Fix
+- Standalone window only persist over any other app, when the setting for that is active.  
+  This wasn’t properly working before. The user had to check and uncheck the setting before it did what it claimed to do.
+- Prevent window flashing when switching font documents.  
+  Very convenient when having the standalone window large on a second monitor
+- Draw only in foremost font.
+- Deal with multiple open fonts now.
+- Avoid preview padding to shrink below minimum size.
+- Improve sliderbox position for some users which was partially hidden in some cases.  
+  Also fixes that the previewBox showed up together with the standalone when standalone window was enabled and glyphs was launched
+
+Other
+- Add some left padding to the preview window.
+- Cleanup.
+- Semi-fix: use corner components.
+
+
+3.0.5
+-----
 
 - New feature: Option to hide current layer foreground. Make the preview shine in all its glory.
 
-### v3.0.4
+3.0.4
+-----
 
 - New feature: "Always On Top" If active it shows the window on top of other windows even if GlyphsApp is in the background. Useful depending on if you use multiple screens or not.
 - New feature: Slider now have tickmarks if the range is smaller than 11. Useful for for italic axis, where there are only 0 and 1 as values.
 
-### v3.0.3
+3.0.3
+-----
 
 - Remove debug logging
 
-### v3.0.2
+3.0.2
+-----
 
 - Fix Registry issue.
 
-### v3.0.1
+3.0.1
+-----
 
 - Add menu item "Open Registration Window"
 
-### v3.0.0
+3.0.0
+-----
 
 - Fix instances don’t show *all* the time in the Menu.
 - Quit plugin on window close button.
