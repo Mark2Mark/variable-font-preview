@@ -38,6 +38,30 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 
 <details><summary>Expand if you’re curious.</summary>
 
+3.3.6
+-----
+
+New
+- Disconnect preview size from built-in bottom preview (Often requested feature)
+
+Changes
+- Lay out masters in radar chart clock wise (opposite direction of before)
+
+Fixes
+- fix "Draw in Active Layer" turned off made the radar chart fill color all black
+
+Other
+- Improve value rounding
+- Resize preview via mouse dragging only when docked, not in when standalone window
+- Improve black or white preview background handling, especially for standalone window
+
+
+3.3.0
+-----
+
+New
+- Color font support
+
 3.2.2
 -----
 
