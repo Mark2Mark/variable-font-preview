@@ -30,7 +30,6 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ## Todo
 
 - Currently there is a know issue, where Variable Font Preview behaves a bit odd, when the Red Arrows plugin is also active. In that case, deactivate Red Arrows. If that improves behaviour, please let me know. We are investigating the cause.
-- Right now I am improving the handling of more than one fonts. This is something, Variable Font Preview can’t do yet, but very soon it will.
 - For more, see [issues](https://github.com/Mark2Mark/variable-font-preview/issues)
 
 &nbsp;
