@@ -12,6 +12,8 @@ The famous plugin now available for Glyphs 3 with piles of improvements and new 
 ⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
 
 
+[→ Click to Install ←](glyphsapp3://installplugin/Variable%20Font%20Preview%203)
+
 &nbsp;
 ## Highlights
 
