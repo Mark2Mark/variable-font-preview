@@ -27,11 +27,11 @@ If applicable, add screenshots to help explain your problem.
  - macOS: [e.g. 11.2.2]
  - GlyphsApp Version build number [e.g. 3071]
  - Version [e.g. 3.0.0]
-   - In the Glyphs Menu `"Script"` > `"Open Scripts Folder"`
-  - Next to that `"Scripts"` folder in the Finder is a `"Repositories"` folder
-  - In that `"Repositories"` folder, go to the plugin name (e.g. "variable-font-preview")
-  - In that folder right click on the plugin file (e.g."Variable Font Preview X.glyphsReporter" and click "Get Info")
-  - The Info window will show a Version entry. That Version number is what I need, enter it here:
+    - In the Glyphs Menu `"Script"` > `"Open Scripts Folder"`
+    - Next to that `"Scripts"` folder in the Finder is a `"Repositories"` folder
+    - In that `"Repositories"` folder, go to the plugin name (e.g. "variable-font-preview")
+    - In that folder right click on the plugin file (e.g."Variable Font Preview X.glyphsReporter" and click "Get Info")
+    - The Info window will show a Version entry. That Version number is what I need, enter it here:
 
 ### Additional context
 Add any other context about the problem here.
