@@ -7,6 +7,16 @@ assignees: ''
 
 ---
 
+**Get the Plugin Version**
+
+- In the Glyphs Menu `"Script"` > `"Open Scripts Folder"`
+- Next to that `"Scripts"` folder in the Finder is a `"Repositories"` folder
+- In that `"Repositories"` folder, go to the plugin name (e.g. "variable-font-preview")
+- In that folder right click on the plugin file (e.g."Variable Font Preview X.glyphsReporter" and click "Get Info")
+- The Info window will show a Version entry. That Version number is what I need, enter it here:
+
+Version: 
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
