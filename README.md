@@ -5,6 +5,8 @@
 
 # Variable Font Preview 3
 
+[![made with heart by Mark Frömberg](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-mark%20frömberg-F9DE64.svg?style=flat)](https://github.com/Mark2Mark)
+
 The famous plugin now available for Glyphs 3 with piles of improvements and new features.
 
 💡 Minimum Glyphs version: build <code>3062</code>.
