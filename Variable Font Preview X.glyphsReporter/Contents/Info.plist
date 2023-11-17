@@ -8,22 +8,20 @@
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>Variable Font Preview X</string>
-	<key>CFBundleIconFile</key>
-	<string>AppIcon.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.markfromberg.Variable-Font-Preview-X</string>
+	<string>com.markfromberg.Variable_Font_Preview_X</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>Variable Font Preview X</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.4.9</string>
+	<string>3.5.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>42</string>
+	<string>44</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -41,16 +39,16 @@
 	<key>DTXcodeBuild</key>
 	<string>14A400</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.12</string>
+	<string>12.3</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2021 markfromberg.com | All rights reserved.</string>
+	<string>© 2023 markfromberg.com | All rights reserved.</string>
 	<key>NSPrincipalClass</key>
 	<string>MFVariableFontPreviewX</string>
 	<key>UpdateFeedURL</key>
-	<string></string>
+	<string>https://markfromberg.com</string>
 	<key>productPageURL</key>
-	<string></string>
+	<string>https://markfromberg.com</string>
 	<key>productReleaseNotes</key>
-	<string>Enjoy this update. See more at WEB_PROTOCOL/markfromberg.com</string>
+	<string>Enjoy this update. See more at https://markfromberg.com</string>
 </dict>
 </plist>

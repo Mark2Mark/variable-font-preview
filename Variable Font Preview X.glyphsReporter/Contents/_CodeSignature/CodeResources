@@ -4,73 +4,40 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/MFSliderViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFSliderViewController.nib</key>
 		<data>
-		bS9TWa5Qf1p8t0V/xoSXmR4zvEU=
+		srAfygdhJFokL64XCPHXUm/0yt0=
 		</data>
-		<key>Resources/MFSliderViewController.nib/keyedobjects.nib</key>
-		<data>
-		keZowN+JSjOXYRWPeiYb3LFyMCg=
-		</data>
-		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFVFPLabeledSliderViewController.nib</key>
 		<data>
 		PTd+ippM4oGbmFxy3b1H8uzn1o0=
 		</data>
-		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects.nib</key>
-		<data>
-		mlqdKws5iRw1pzIXKWrfqKcCyh8=
-		</data>
-		<key>Resources/MFVFPWindow.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFVFPWindow.nib</key>
 		<data>
 		mMLrnwlv5D284AKj9YREOiefmXU=
-		</data>
-		<key>Resources/MFVFPWindow.nib/keyedobjects.nib</key>
-		<data>
-		BXSCCMwMv19pb/Q7/hw6IJcZARY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/MFSliderViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFSliderViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			318wlFqrMc/ovDqiRMkJutcG68eqEiq90CnJ+SOFb+o=
+			+N0QxqbDIhgL1C1W4tmwSTbV9QQGw1N+FJxsF+jpywg=
 			</data>
 		</dict>
-		<key>Resources/MFSliderViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wsYqMHqQtQzfFYqPFyrMxKGkeDPZffBSHw40pXRm/zI=
-			</data>
-		</dict>
-		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFVFPLabeledSliderViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			rt2ZIz2fQLRxvAst65NwGLAGkKaOY1OB/g1sZk+b3X4=
 			</data>
 		</dict>
-		<key>Resources/MFVFPLabeledSliderViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NU/v62DjXfPA9v+ja3dhEqn5KUONTtrsiXUT91lXYSQ=
-			</data>
-		</dict>
-		<key>Resources/MFVFPWindow.nib/keyedobjects-101300.nib</key>
+		<key>Resources/MFVFPWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			42lj016L4KmXX43brpJzOjHeNdCNlKUkF9SnV9Mz7Wo=
-			</data>
-		</dict>
-		<key>Resources/MFVFPWindow.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DxN5yf1/Zxp3a9oQ2KdyZvb1DunayDZ6NrsNUoVYsMo=
 			</data>
 		</dict>
 	</dict>
