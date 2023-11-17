@@ -39,7 +39,7 @@
 	<key>DTXcodeBuild</key>
 	<string>14A400</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>12.3</string>
+	<string>10.15</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>© 2023 markfromberg.com | All rights reserved.</string>
 	<key>NSPrincipalClass</key>
