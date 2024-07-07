@@ -1,5 +1,74 @@
 # Changelog
 
+## 3.7.6
+
+2024-07-04
+
+### Fix
+
+* In some cases the involved masters flickered between a dashed and solid outline
+
+## 3.7.5
+
+2024-07-04
+
+### New
+
+* **UI**: Use Custom Parameter "Preview Ascender/Descender" to adjust preview scale
+
+    With this you can see your drawings that exceed the standard extender heights now
+
+## 3.7.4
+
+2024-07-03
+
+### Fix
+
+* Instances now properly dial in every time
+
+    In cases where instances had any axis value as 0, those did not show properly. Also variable exports are not shown in the list anymore.
+    Public [#30](https://github.com/Mark2Mark/variable-font-preview/issues/30) 
+
+## 3.7.3
+
+2024-07-03
+
+### Changes
+
+* **UI**: Animation controls look nicer now
+
+## 3.7.2
+
+2024-07-02
+
+### Changes
+
+* **UI**: Show masters radar chart always when "Draw In Edit View" is on
+
+    Before, also "Show Involved Masters" had to be on.
+
+## 3.7.1
+
+2024-07-02
+
+* Small changes under the hood
+
+## 3.7
+
+2024-07-02
+
+### New
+
+* **UI**: Show CPU usage when animation is on
+
+* **UI**: Speed selector for slider animations
+
+* **UI**: Slider animation (beta)
+
+### Changes
+
+* **UI**: Add animation timing functions (not yet accessible via UI)
+
 ## 3.6.0
 
 2024-03-05
@@ -386,8 +455,6 @@
 
 * New: User choice to use rounded or decimal values with sliders
 
-* #59 Fix: Update Menu Instances right after adding an instance
-
 * Fix the missing instances by making sure to have only one instance of the context menu
 
 * Only Draw if SpaceKey is not down:
@@ -417,6 +484,10 @@
 * Use shadow instead of border
 
 * Improve Magnifier UI
+
+### Fix
+
+* #59 Update Menu Instances right after adding an instance
 
 ## 1.1.6
 
